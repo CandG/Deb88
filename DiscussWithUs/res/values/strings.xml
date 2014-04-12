@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Discuss With Us</string>
+    <string name="author">C&amp;G</string>
+    <string name="registrace">Registrace</string>
+    <string name="prihlaseni">Přihlášení</string>
+    <string name="vyzva_k_registraci">Buďte slyšet, registrujte se!</string>
+    <string name="vyzva_k_prihlaseni">Máte již svůj účet? Přihlašte se!</string>
+    <string name="prihlasit">Příhlásit</string>
+    <string name="registrovat">Registrovat</string>
+    <string name="prihlasovaci_jmeno">Přihlašovací jméno</string>
+    <string name="email">E-mail</string>
+    <string name="heslo">Password</string>
+    <string name="registrace_chyba0"/>
+    <string name="registrace_chyba1">Zvolte jiné přihlašovací jméno.</string>
+    <string name="registrace_chyba2">Zvolte jiné heslo.</string>
+    <string name="registrace_chyba3">Chybný e-mail.</string>
+    <string-array name="registrace_chyba">
+        <item />
+        <item >Zvolte jiné přihlašovací jméno.</item>
+        <item >Zvolte jiné heslo.</item>
+        <item >Chybný e-mail.</item>
+        <item >Chyba v prenosu dat.</item>
+        <item >Přihlašovací jméno není vyplněno.</item>
+    </string-array>
+    <string-array name="login_chyba">
+        <item />
+        <item >Špatne přihlašovací jméno či heslo.</item>
+    </string-array>
+    <string name="logout">Odhlásit</string>
+    <string name="noNetwork">Nelze se připojit k Internetu. Prosíme, překontrolujte nastavení síťového připojení.</string>
+    <string name="debugkeymap">0lmv401lq4mRRYVhEJezIo71znG25ZwvDKaOKJA</string>
+    <string name="appkeymap">0lmv401lq4mQtSGUo6oKGNIrrd2V-DW0aa3y15w</string>
+    <string name="settings">Nastavení</string>
+    <string name="exit">Ukončit</string>
+    <string name="loadingPosition">Načítám pozici. Prosím vyčkejte...</string>
+    <string name="no_posts">Žádné příspěvky nenalezeny.</string>
+    <string name="not_found">Tento objekt již neexistuje.</string>
+    <string name="our_mistake">Ouups, omlouváme se, chyba je zřejmě na naší straně. Zkuste aplikaci restartovat.</string>
+    <string name="notActive">Hra je momentálně mimo provoz. Již brzy jistě bude vše v pořádku. Děkujeme za pochopení.</string>
+    <string name="nameNotFount">Chyba při kontrole verze.</string>
+    <string name="notUpToDate">Aplikace je zastaralá, prosím, nainstalujte aktualizaci.</string>
+
+    <string-array name="lifetime_options">
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>20 minut</item>
+        <item>30 minut</item>
+        <item>45 minut</item>
+        <item>1 hodina</item>
+        <item>2 hodiny</item>
+        <item>5 hodin</item>
+        <item>12 hodin</item>
+        <item>1 den</item>
+        <item>2 dny</item>
+        <item>5 dní</item>
+        <item>1 týden</item>
+        <item>2 týdny</item>
+        <item>1 měsíc</item>
+        <item>2 měsíce</item>
+        <item>5 měsíců</item>
+        <item>1 rok</item>
+        <item>2 roky</item>
+        <item>5 let</item>
+        <item>Na furt</item>
+    </string-array>
+    
+     <string-array name="range_options">
+        <item>100 metrů</item>
+        <item>200 metrů</item>
+        <item>500 metrů</item>
+        <item>1 kilometr</item>
+        <item>2 kilometry</item>
+        <item>5 kilometrů</item>
+        <item>10 kilometrů</item>
+        <item>50 kilometrů</item>
+        <item>100 kilometrů</item>
+    </string-array>
+    
+     <string-array name="updating_options">
+        <item>Vypnuto</item>
+        <item>5 sekund</item>
+        <item>10 sekund</item>
+        <item>20 sekund</item>
+        <item>30 sekund</item>
+        <item>45 sekund</item>
+        <item>1 minuta</item>
+        <item>2 minuty</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>20 minut</item>
+        <item>30 minut</item>
+        <item>1 hodina</item>
+        <item>2 hodiny</item>
+        <item>3 hodiny</item>
+        <item>5 hodin</item>
+        <item>8 hodin</item>
+    </string-array>
+</resources>
